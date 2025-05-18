@@ -1,4 +1,7 @@
 package View;
 
-public class ConsolaUI {
+import javax.swing.*;
+
+public class MaquinaExpendedoraUI extends JFrame {
+
 }
